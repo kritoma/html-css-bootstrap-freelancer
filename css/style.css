@@ -57,7 +57,7 @@ header{
 
 .open_nav {
     border: 1px solid white;
-    background-color: #3a546d;
+    background-color: transparent;
     color: gray;
     border-radius: 5px;
     padding: 5px 10px;
@@ -169,3 +169,14 @@ header{
 }
 
 /* about  */
+.about{
+    color: white;
+}
+
+.download {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
